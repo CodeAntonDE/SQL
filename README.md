@@ -596,8 +596,14 @@ FROM employees;
 
 ![image](https://github.com/user-attachments/assets/8bef86f3-7303-4428-b978-748589b23ae4)
 
-
 ***************************************************************************************************************************************************************
+
+# 15) Что такое spill таблиц?
+
+![image](https://github.com/user-attachments/assets/4567e726-0aa7-4eb4-aac1-8617ce48dc82)
+
+![image](https://github.com/user-attachments/assets/6762d1be-ad36-4a32-839b-e90a9fce1da7)
+
 
 
 

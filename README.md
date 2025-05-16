@@ -624,8 +624,19 @@ FROM employees;
 
 ![image](https://github.com/user-attachments/assets/c9a4a6c0-679a-4510-86ac-c3b4c7e1bb2e)
 
-
 ***************************************************************************************************************************************************************
+
+# 19) Как избавиться от NULL-значений? Как ввести ограничение на вставку NULL-значений в таблице?
+
+![image](https://github.com/user-attachments/assets/ea2c8c09-1fb9-485d-a35d-185cd55ecf61)
+
+![image](https://github.com/user-attachments/assets/d8babdd6-ddcd-4e8a-be2e-93ee5652b8f9)
+
+![image](https://github.com/user-attachments/assets/0d113fb5-1bdb-4ab4-9f97-2dff0363566b)
+
+![image](https://github.com/user-attachments/assets/7337977d-cd6d-4cde-bfda-71e35f307b17)
+
+
 
 
 

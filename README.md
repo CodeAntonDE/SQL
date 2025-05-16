@@ -636,9 +636,19 @@ FROM employees;
 
 ![image](https://github.com/user-attachments/assets/7337977d-cd6d-4cde-bfda-71e35f307b17)
 
+***************************************************************************************************************************************************************
 
+# 20) Как разделить значение на 0, чтобы получить в ответе NULL?
 
+![image](https://github.com/user-attachments/assets/c529881f-3e17-4f09-9389-b58a7f6a16d6)
 
+![image](https://github.com/user-attachments/assets/cbafb4c3-92d0-44a2-aa04-0fb867b7c636)
+
+![image](https://github.com/user-attachments/assets/c3ba5f4a-3981-4629-916c-eb95e8f5645f)
+
+![image](https://github.com/user-attachments/assets/374b3430-68e8-45aa-9906-a1cf4de1f414)
+
+***************************************************************************************************************************************************************
 
 
 

@@ -657,6 +657,63 @@ FROM employees;
 
 ![image](https://github.com/user-attachments/assets/da2cd599-4d7f-4865-97aa-9474cdde4519)
 
+***************************************************************************************************************************************************************
+
+# 22)  Является ли следующая команда транзакцией в postgresql?  SELECT * FROM t1 WHERE id > 5;
+
+![image](https://github.com/user-attachments/assets/49347291-9ff1-4bf4-8875-eaaf436d4b13)
+
+***************************************************************************************************************************************************************
+
+# 23) Есть запрос, который работает ночью и строит отчет. Ежедневно он работал нормально и создавал отчет за 2 часа. Сегодня утром ты пришел на работу, а отчета нет. Смотришь свой пайплайн, а он все еще крутится на чтении запроса. Что могло произойти?
+
+![image](https://github.com/user-attachments/assets/538a7002-32ac-4654-8315-d0fff55ebc83)
+
+![image](https://github.com/user-attachments/assets/eb77490b-6852-4bb0-9cd8-ebab0919d497)
+
+![image](https://github.com/user-attachments/assets/f65fce26-9e72-499f-8fdf-bfa26892910d)
+
+![image](https://github.com/user-attachments/assets/9a82f927-b425-41fe-8f18-bfd7fff08587)
+
+***************************************************************************************************************************************************************
+
+# 24) Как быстро посчитать количество строк в таблице, имеющей нормальную структуру, например, в 3 НФ, где много колонок и пусть в ней даже JSON'овский сырец хранится? Структура таблицы пусть будет следующая:
+CREATE TABLE t1 
+(
+    id int primary key,
+    col1 text,
+    FK_id int NOT NULL,
+    col2 text,
+    col3 text,
+    ....
+    col100 jsonb
+)
+
+![image](https://github.com/user-attachments/assets/b4ecfd88-d4b6-4517-8db2-6622ef73f30c)
+
+![image](https://github.com/user-attachments/assets/f3c45f9b-c726-4a23-a4e2-30b4161d5ba3)
+
+![image](https://github.com/user-attachments/assets/bfbfc58a-3854-4146-86d4-d181e3541dd1)
+
+![image](https://github.com/user-attachments/assets/394dde60-18b9-4883-b1a1-a80143cde1aa)
+
+
+***************************************************************************************************************************************************************
+
+# 25) Что такое и для чего нужен подзапрос? Что такое коррелируемый и не коррелируемый подзапрос? В чем отличие СТЕ от подзапроса?
+
+
+![image](https://github.com/user-attachments/assets/785341cb-805f-47ae-894d-e869cfd722c1)
+
+![image](https://github.com/user-attachments/assets/83b8ad1e-ad6f-4ef0-ad8a-63137e08fdcb)
+
+![image](https://github.com/user-attachments/assets/f751ef2b-841d-4886-a5e4-6aa9f8a075ce)
+
+![image](https://github.com/user-attachments/assets/fb98a387-202e-4ee3-aa0f-89cc73e1d8b6)
+
+
+
+***************************************************************************************************************************************************************
 
 
 
